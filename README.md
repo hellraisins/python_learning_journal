@@ -2,7 +2,7 @@
 
 About me:
 
-East coast transplant in the Bay Area. i'm a ~rennaissance woman~ as in, i can't decide! 
+East coast transplant in the Bay Area. rennaissance woman who just can't decide! i want to know how to do everything.
 
 Goals for the course: 
 
