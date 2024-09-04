@@ -2,7 +2,7 @@
 
 About me:
 
-East coast transplant in the Bay Area. rennaissance woman who just can't decide! i want to know how to do everything.
+East coast transplant in the Bay Area. I'm an artist, an avid reader, and I'm curious as heck. I want to know as much as possible about this strange world.
 
 Goals for the course: 
 
