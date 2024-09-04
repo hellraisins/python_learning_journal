@@ -1,0 +1,5 @@
+### Week 1 Reflections
+- Last week (week 1) I started using the app Obsidian to take notes. It uses markdown and some light-ish coding so users can personalize their "vaults". I think using it is helping me become more familiar with my computer. Also I am organized! Almost. Kinda.
+- I have, of course, been messing around with Python. I have a few books, so I am working through one of them when I have extra time.
+- I have also been messing around with the CLI and I even customized my terminal profile? I think that's what I did? Ha. Anyway this is something else that I think is helping me work more intuitively with my computer.
+- The Jupyter notebook feels strange compared to Visual Studio Code, but it makes a lot of sense for learning and information sharing. I also downloaded Warp to see what that is all about.
